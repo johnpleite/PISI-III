@@ -1,0 +1,531 @@
+﻿genre,album_count,mean_score
+Singer-Songwriter,427,80.77517564402811
+Indie Rock,377,79.43766578249337
+Art Pop,278,79.99280575539568
+Alternative Rock,256,80.04296875
+East Coast Hip Hop,230,80.7695652173913
+Indie Pop,190,78.85263157894737
+Pop Rock,179,80.11731843575419
+Art Rock,166,81.78313253012048
+Synthpop,161,78.93788819875776
+Neo-Psychedelia,144,80.06944444444444
+Dream Pop,142,80.04225352112677
+Conscious Hip Hop,141,81.48226950354609
+Contemporary R&B,136,78.875
+Post-Punk,133,79.94736842105263
+Abstract Hip Hop,124,80.33870967741936
+Alternative R&B,119,78.47899159663865
+Indie Folk,118,80.58474576271186
+Electropop,115,78.11304347826086
+Southern Hip Hop,113,80.32743362831859
+Post-Hardcore,112,80.58035714285714
+Dance-Pop,110,78.66363636363636
+Experimental Hip Hop,109,81.37614678899082
+Hardcore Hip Hop,109,81.06422018348624
+Experimental Rock,101,81.11881188118812
+Shoegaze,94,80.08510638297872
+Post-Rock,91,82.42857142857143
+Ambient,91,81.43956043956044
+Boom Bap,90,81.54444444444445
+Gangsta Rap,90,80.14444444444445
+Progressive Rock,88,81.17045454545455
+Neo-Soul,84,79.75
+Psychedelic Rock,84,79.70238095238095
+Noise Rock,81,80.34567901234568
+Jazz Rap,80,81.15
+Progressive Metal,79,80.75949367088607
+Electronic,77,80.59740259740259
+Psychedelic Pop,77,79.88311688311688
+Folk Rock,73,80.95890410958904
+Pop Rap,72,79.13888888888889
+West Coast Hip Hop,70,80.75714285714285
+Indietronica,70,79.57142857142857
+Alternative Metal,68,80.55882352941177
+Contemporary Folk,67,81.19402985074628
+Trap,67,78.38805970149254
+Chamber Pop,66,80.83333333333333
+Hard Rock,65,80.1076923076923
+Cloud Rap,64,78.34375
+New Wave,63,80.25396825396825
+K-Pop,61,77.68852459016394
+Noise Pop,60,79.81666666666666
+Slacker Rock,59,79.7457627118644
+Jazz Fusion,56,82.0
+IDM,50,80.1
+Punk Rock,50,79.28
+Heavy Metal,49,79.6938775510204
+Emo,49,79.40816326530613
+Alt-Pop,48,78.125
+Blues Rock,47,79.8936170212766
+Slowcore,46,80.5
+Ambient Pop,46,80.1086956521739
+Art Punk,46,79.73913043478261
+Chamber Folk,45,81.77777777777777
+Progressive Pop,45,80.86666666666666
+Pop Punk,44,79.06818181818181
+Metalcore,44,78.88636363636364
+Power Pop,42,79.83333333333333
+Glitch Pop,42,79.30952380952381
+Trip Hop,40,80.725
+Midwest Emo,40,80.15
+Downtempo,39,80.38461538461539
+Jangle Pop,37,79.48648648648648
+Sophisti-Pop,36,80.36111111111111
+MPB,35,83.68571428571428
+Experimental,35,79.88571428571429
+Soul,33,81.12121212121212
+Psychedelic Folk,32,80.96875
+Thrash Metal,32,80.90625
+Garage Rock,32,78.875
+Post-Punk Revival,32,78.65625
+Jazz-Rock,31,82.45161290322581
+Gothic Rock,31,81.48387096774194
+Drone,31,81.29032258064517
+Alt-Country,31,79.41935483870968
+Hardcore Punk,31,79.41935483870968
+Pop,31,78.93548387096774
+UK Hip Hop,31,78.45161290322581
+Bedroom Pop,30,77.83333333333333
+Piano Rock,29,80.89655172413794
+Glam Rock,29,80.41379310344827
+Math Rock,29,80.0
+Americana,29,79.79310344827586
+Emo-Pop,29,79.13793103448276
+Folk Pop,28,80.89285714285714
+Funk,28,80.85714285714286
+Baroque Pop,28,80.75
+Pop Soul,28,78.28571428571429
+J-Rock,27,82.11111111111111
+Avant-Garde Metal,27,79.66666666666667
+Grunge,26,81.03846153846153
+Modern Classical,25,82.32
+Instrumental Hip Hop,25,81.72
+Avant-Folk,25,81.16
+Sludge Metal,25,80.24
+Death Metal,25,79.6
+Industrial Hip Hop,24,81.83333333333333
+Hypnagogic Pop,24,78.54166666666667
+Technical Death Metal,23,81.82608695652173
+Djent,23,79.6086956521739
+City Pop,22,81.5909090909091
+Country Rock,22,80.72727272727273
+Industrial Rock,22,80.0
+Drumless,22,79.18181818181819
+UK Bass,22,78.9090909090909
+Spiritual Jazz,21,82.95238095238095
+Avant-Garde Jazz,21,82.57142857142857
+Hard Bop,21,82.14285714285714
+Progressive Electronic,21,81.14285714285714
+Vocal Jazz,21,80.9047619047619
+Folktronica,21,80.61904761904762
+Post-Metal,21,80.57142857142857
+Alternative Dance,21,80.52380952380952
+Black Metal,21,79.66666666666667
+Post-Industrial,21,79.19047619047619
+Stoner Metal,20,80.7
+Funk Rock,20,80.65
+Cinematic Classical,19,85.47368421052632
+Atmospheric Black Metal,19,81.36842105263158
+Soft Rock,19,80.63157894736842
+Jazz Pop,19,80.42105263157895
+Psychedelic Soul,19,79.63157894736842
+Industrial Metal,19,79.36842105263158
+Chillwave,19,78.0
+Glitch Hop,18,82.11111111111111
+Dark Ambient,18,80.72222222222223
+Dance-Punk,18,80.44444444444444
+Twee Pop,18,80.22222222222223
+Smooth Soul,17,82.29411764705883
+Nu Metal,17,80.82352941176471
+Symphonic Prog,17,80.82352941176471
+Britpop,17,79.52941176470588
+Post-Bop,16,81.625
+Doom Metal,16,80.25
+Deconstructed Club,16,79.0625
+Rock Opera,15,81.26666666666667
+Mathcore,15,81.2
+Groove Metal,15,80.73333333333333
+Ethereal Wave,15,80.13333333333334
+Heartland Rock,15,80.06666666666666
+Stoner Rock,15,80.0
+Ambient Techno,15,79.46666666666667
+Future Garage,15,79.0
+Political Hip Hop,14,81.21428571428571
+Disco,14,80.57142857142857
+Shibuya-kei,14,80.57142857142857
+J-Pop,14,80.28571428571429
+Grindcore,14,79.64285714285714
+Sound Collage,14,79.64285714285714
+Darkwave,14,79.5
+Progressive Metalcore,14,79.35714285714286
+Hip Hop,14,78.71428571428571
+Nu Jazz,14,78.5
+Electro-Industrial,14,78.35714285714286
+House,14,78.14285714285714
+Progressive Soul,13,86.46153846153847
+Cool Jazz,13,82.84615384615384
+Krautrock,13,81.53846153846153
+Synth Funk,13,81.15384615384616
+Garage Rock Revival,13,80.53846153846153
+Screamo,13,79.61538461538461
+Latin Pop,13,79.0
+Nu-Disco,13,78.92307692307692
+Wonky,13,78.76923076923077
+Electronic Dance Music,13,78.6923076923077
+Bossa Nova,12,82.91666666666667
+Progressive Folk,12,82.0
+Horrorcore,12,81.0
+Roots Rock,12,80.33333333333333
+Techno,12,79.0
+Hyperpop,12,78.58333333333333
+Emo Rap,12,77.41666666666667
+Space Ambient,11,83.27272727272727
+Modal Jazz,11,83.0
+Proto-punk,11,81.36363636363636
+Blackgaze,11,80.18181818181819
+Deep House,11,79.18181818181819
+Bubblegum Bass,11,78.72727272727273
+Microhouse,11,78.45454545454545
+Samba,10,84.5
+Memphis Rap,10,82.4
+Jazz-Funk,10,81.4
+Atmospheric Sludge Metal,10,80.7
+Country,10,80.5
+Post-Black Metal,10,80.2
+Drone Metal,10,80.1
+Math Pop,10,79.5
+Glitch,10,79.4
+Vaporwave,10,79.1
+Skate Punk,10,79.0
+Melodic Metalcore,10,78.9
+Garage Punk,10,77.7
+Indie Surf,10,77.6
+Minimalism,9,83.66666666666667
+Southern Soul,9,83.11111111111111
+Plunderphonics,9,82.66666666666667
+Neoclassical Darkwave,9,82.0
+Space Rock Revival,9,81.0
+Ska Punk,9,79.88888888888889
+Melodic Hardcore,9,78.66666666666667
+Country Pop,9,78.22222222222223
+Deathcore,9,77.33333333333333
+Sequencer & Tracker,8,86.625
+Progressive Death Metal,8,84.625
+Tropicália,8,84.25
+Roots Reggae,8,82.75
+Free Jazz,8,81.875
+Turntable Music,8,81.875
+Chamber Music,8,81.625
+Raw Black Metal,8,81.625
+Drill and Bass,8,81.375
+Funk Metal,8,81.375
+Dark Cabaret,8,81.25
+Avant-Prog,8,80.875
+Rap Rock,8,80.75
+Electro-Disco,8,80.5
+Acoustic Rock,8,80.125
+Folk Punk,8,79.75
+Big Beat,8,79.5
+Geek Rock,8,79.375
+Gothic Metal,8,79.125
+Post-Minimalism,8,79.125
+Dissonant Death Metal,8,78.75
+Future Bass,8,77.625
+Heavy Psych,8,77.625
+Post-Grunge,8,77.25
+Tech House,8,77.25
+Melodic Death Metal,7,82.85714285714286
+Brutal Death Metal,7,82.57142857142857
+Electro House,7,81.0
+Breakcore,7,79.85714285714286
+Digital Hardcore,7,79.42857142857143
+Jazz,7,79.42857142857143
+Comedy,7,79.0
+Chamber Jazz,7,78.85714285714286
+Synth Punk,7,78.85714285714286
+Southern Rock,7,78.71428571428571
+Space Rock,7,78.57142857142857
+Riot Grrrl,7,78.42857142857143
+Breakbeat,7,78.0
+Atmospheric Drum and Bass,7,77.85714285714286
+Chicago Drill,7,77.57142857142857
+Orchestral,6,88.16666666666667
+Chipmunk Soul,6,81.5
+G-Funk,6,81.5
+Symphonic Rock,6,80.66666666666667
+Mashup,6,80.5
+Noise,6,80.33333333333333
+New Jack Swing,6,80.0
+Doomgaze,6,79.83333333333333
+Hip House,6,79.66666666666667
+Post-Britpop,6,79.16666666666667
+Punk Blues,6,78.66666666666667
+Standards,6,78.66666666666667
+Adult Contemporary,6,78.5
+Traditional Pop,6,78.16666666666667
+Contemporary Country,6,78.0
+Industrial,6,78.0
+Witch House,6,77.83333333333333
+Europop,6,77.33333333333333
+Grime,6,77.33333333333333
+R&B,6,77.33333333333333
+Electroclash,6,77.16666666666667
+Folk,6,77.16666666666667
+Digital Fusion,5,84.2
+Acid Jazz,5,83.4
+Death Industrial,5,82.2
+Latin Rock,5,82.2
+French House,5,82.0
+New Age,5,82.0
+Rhythm and Blues,5,82.0
+Blues,5,80.4
+Yacht Rock,5,80.4
+Baggy,5,79.8
+Hardcore Breaks,5,79.8
+Rock,5,79.8
+Deathgrind,5,79.6
+Dubstep,5,79.6
+Tape Music,5,79.4
+Powerviolence,5,79.2
+French Pop,5,79.0
+NWOBHM,5,79.0
+New Rave,5,78.6
+Anti-Folk,5,78.4
+Sunshine Pop,5,78.4
+Blue-Eyed Soul,5,78.2
+Nu-Metalcore,5,78.2
+UK Garage,5,78.0
+Neoperreo,5,77.6
+Synthwave,5,77.6
+Speed Metal,5,76.8
+Chiptune,4,87.0
+Third Stream,4,87.0
+Big Band,4,85.5
+French Electro,4,83.5
+Freak Folk,4,83.25
+Acid Rock,4,83.0
+Sampledelia,4,83.0
+Drum and Bass,4,82.25
+Dariacore,4,81.75
+Traditional Folk Music,4,81.75
+Canterbury Scene,4,81.5
+Chillout,4,81.25
+Melodic Black Metal,4,81.25
+Death Doom Metal,4,80.25
+Electroacoustic,4,80.25
+Emoviolence,4,80.25
+Blackened Death Metal,4,80.0
+Latin Alternative,4,80.0
+PluggnB,4,79.5
+Neofolk,4,79.25
+Neue Deutsche Härte,4,78.5
+Progressive Country,4,78.5
+Trap Metal,4,78.5
+Country Soul,4,78.25
+Digicore,4,78.0
+Ambient Dub,4,77.75
+Ska,4,77.5
+Afrobeats,4,77.25
+Reggaeton,4,77.25
+Minimal Synth,4,77.0
+Samba-rock,3,86.66666666666667
+Hauntology,3,86.0
+Rap Metal,3,85.33333333333333
+Afrobeat,3,84.33333333333333
+Deep Soul,3,84.0
+Traditional Doom Metal,3,84.0
+Chicago Soul,3,83.0
+Spoken Word,3,81.33333333333333
+Folk Metal,3,81.0
+Horror Punk,3,80.66666666666667
+Mandopop,3,80.66666666666667
+Zolo,3,80.66666666666667
+Christmas,3,80.33333333333333
+Pigfuck,3,80.33333333333333
+Progressive House,3,80.33333333333333
+Funk carioca,3,80.0
+Minimal Techno,3,80.0
+No Wave,3,80.0
+Third Wave Ska,3,80.0
+Surf Punk,3,79.66666666666667
+Jam Band,3,79.33333333333333
+Red Dirt,3,78.66666666666667
+Comedy Rock,3,78.33333333333333
+HexD,3,78.33333333333333
+Coldwave,3,78.0
+EBM,3,78.0
+Glam Metal,3,78.0
+Swancore,3,78.0
+Girl Group,3,77.66666666666667
+Beatdown Hardcore,3,77.33333333333333
+Future Funk,3,77.33333333333333
+Free Improvisation,3,77.0
+Rock & Roll,3,76.66666666666667
+Easycore,3,75.33333333333333
+Dark Jazz,2,88.0
+Lounge,2,86.5
+Depressive Black Metal,2,86.0
+Symphonic Black Metal,2,85.0
+Latin Rap,2,84.0
+Brutal Prog,2,83.5
+Dirty South,2,83.5
+Dub,2,83.5
+Eurodance,2,83.5
+Epic Doom Metal,2,83.0
+Slushwave,2,83.0
+Vanguarda paulista,2,83.0
+Bebop,2,82.5
+Neoclassical New Age,2,82.5
+Technical Thrash Metal,2,82.5
+Latin Jazz,2,82.0
+Samba-Jazz,2,82.0
+Berlin School,2,81.5
+Flamenco Pop,2,81.5
+Flamenco nuevo,2,81.5
+Progressive Big Band,2,81.5
+Salsa,2,81.5
+Bolero,2,81.0
+Cumbia,2,81.0
+Epic Collage,2,81.0
+Trance,2,81.0
+Chopped and Screwed,2,80.5
+Easy Listening,2,80.5
+Emocore,2,80.5
+Footwork,2,80.5
+Queercore,2,80.5
+Chanson,2,80.0
+Dreampunk,2,80.0
+Lo-Fi Hip Hop,2,80.0
+Acid Techno,2,79.5
+Boogie,2,79.5
+Crust Punk,2,79.5
+Funk mandelão,2,79.5
+Outlaw Country,2,79.5
+Afro-Jazz,2,79.0
+Celtic Rock,2,79.0
+Dub Techno,2,79.0
+Funk 150 bpm,2,79.0
+Hip Hop Soul,2,79.0
+Liquid Drum and Bass,2,79.0
+Plugg,2,79.0
+Acid House,2,78.5
+Jungle,2,78.5
+Noisecore,2,78.5
+Punk,2,78.5
+Bitpop,2,78.0
+Harsh Noise,2,78.0
+Minimal Wave,2,78.0
+Power Metal,2,78.0
+Ambient House,2,77.5
+Beat Music,2,77.5
+Glam Punk,2,77.5
+Rage,2,77.5
+Breakbeat Hardcore,2,77.0
+Brill Building,2,77.0
+Motown Sound,2,77.0
+Speedcore,2,77.0
+Rockabilly,2,76.5
+Tishoumaren,2,76.5
+Trap [EDM],2,76.5
+Boogie Rock,2,76.0
+Latin Electronic,2,76.0
+Choral,1,88.0
+Christian Rock,1,88.0
+Diva House,1,88.0
+Maracatu,1,88.0
+Afro-Cuban Jazz,1,86.0
+Free Folk,1,86.0
+Ritual Ambient,1,86.0
+Show Tunes,1,86.0
+Totalism,1,86.0
+American Folk Music,1,85.0
+Dark Folk,1,85.0
+Dixieland,1,85.0
+Ragtime,1,85.0
+Swing,1,84.0
+Unknown,1,84.0
+Ballet,1,83.0
+ECM Style Jazz,1,83.0
+Funeral Doom Metal,1,83.0
+Funky House,1,83.0
+Jazzstep,1,83.0
+Moogsploitation,1,83.0
+Pagan Metal,1,83.0
+Space Age Pop,1,83.0
+Anarcho-Punk,1,82.0
+Ballroom,1,82.0
+Baltimore Club,1,82.0
+Cyber Metal,1,82.0
+Death-Thrash,1,82.0
+European Free Jazz,1,82.0
+Gothic Country,1,82.0
+Hard Dance,1,82.0
+Hi-NRG,1,82.0
+Hymns,1,82.0
+Southern Gospel,1,82.0
+UK Hard House,1,82.0
+Big Music,1,81.0
+Brega,1,81.0
+Celtic Folk,1,81.0
+Children's Music,1,81.0
+Mashcore,1,81.0
+Miami Bass,1,81.0
+Poetry,1,81.0
+Progressive Breaks,1,81.0
+Reggae,1,81.0
+AOR,1,80.0
+Euro-Disco,1,80.0
+Funk brasileiro,1,80.0
+Futurepop,1,80.0
+Nashville Sound,1,80.0
+Piano Blues,1,80.0
+Pop Reggae,1,80.0
+Pub Rock,1,80.0
+Vapor,1,80.0
+2-Step,1,79.0
+Balearic Beat,1,79.0
+Cowpunk,1,79.0
+Deathrock,1,79.0
+Deep Tech,1,79.0
+Illbient,1,79.0
+Stand-Up Comedy,1,79.0
+Symphonic Metal,1,79.0
+Viking Metal,1,79.0
+Zeuhl,1,79.0
+Black 'n' Roll,1,78.0
+Freakbeat,1,78.0
+J-core,1,78.0
+Riddim,1,78.0
+Space Disco,1,78.0
+Trancecore,1,78.0
+Brega calypso,1,77.0
+D-Beat,1,77.0
+Forró eletrônico,1,77.0
+Ghazal,1,77.0
+Hardcore [EDM],1,77.0
+Jazz manouche,1,77.0
+Musique concrète,1,77.0
+Neoclassical Metal,1,77.0
+Thrashcore,1,77.0
+Turntablism,1,77.0
+Yé-yé,1,77.0
+British Folk Rock,1,76.0
+Broken Transmission,1,76.0
+Gabber,1,76.0
+Gospel,1,76.0
+Greek Folk Music,1,76.0
+Irish Folk Music,1,76.0
+Merseybeat,1,76.0
+Musical Parody,1,76.0
+Nerdcore Techno,1,76.0
+New Beat,1,76.0
+Outsider House,1,76.0
+Psychobilly,1,76.0
+Tropicanibalismo,1,76.0
+American Primitivism,1,75.0
+Crunk,1,75.0
+Drill,1,75.0
+Electro,1,75.0
+Sasscore,1,75.0
+Speed Garage,1,75.0
+Tread,1,75.0
